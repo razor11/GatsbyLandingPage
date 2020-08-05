@@ -18,8 +18,7 @@
 ⚡️ Easy site customization\
 ⚡️ Well organized documentation
 
-To view a demo example, **[click here](https://gatsby-simplefolio.netlify.com/)**\
-To view a live example, **[click here](https://cobidev.com/)**
+
 
 ---
 
@@ -141,7 +140,7 @@ Put as many projects object you want inside the `array`.
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'project.jpg',
+    img: 'project.png',
     title: '',
     info: '',
     info2: '',
@@ -150,7 +149,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
+    img: 'project.png',
     title: '',
     info: '',
     info2: '',
