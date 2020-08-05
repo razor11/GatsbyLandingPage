@@ -23,6 +23,13 @@
 
   @include respond(phone) {
     padding: 0rem ;
+    
+      .context {
+        width: 100%;
+        position: absolute;
+        top:35vh;
+        
+      }
   }
 
 
